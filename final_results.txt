@@ -1,0 +1,3 @@
+stan -> 2
+james -> 3
+edel -> 1
